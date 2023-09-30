@@ -25,7 +25,7 @@ SECRET_KEY = '3d))=d$sdque$a#zk9q!xj=45p+i$!-(iu-(znuctq716^ni!('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vercel.app', '*']
+ALLOWED_HOSTS = ['.vercel.app']
 
 
 # Application definition
